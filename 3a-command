@@ -1,0 +1,6 @@
+npm init
+npm install express --save
+
+create "public" folder => index.html
+ 
+node index.js

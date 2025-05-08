@@ -1,0 +1,13 @@
+-npm init
+-create : index.js
+-open mongodb compass & then shell =>
+i.show dbs
+ii.use student
+iii.db.createCollection('profile')
+iv.db.profile.insertone({
+    name:"happy",emai:""
+})
+
+-npm i mongodb
+-npm i express
+-node index.js
